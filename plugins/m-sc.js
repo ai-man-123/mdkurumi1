@@ -5,7 +5,7 @@ Base Default: wabot-aq/stikerinbot
 _______________________
 Script Ini dibuat dari pengodean ulang stikerinbot. Dikode ulang dari 1/1 file di buat dan dipercanggih lagi dan di build menggunakan beberapa api.
 
-https://github.com/irwanx/xyz-wabot
+https://github.com/ai-man-123/mdkurumi1
 `, MessageType.text, ci1fdocs)
 
 handler.command = /^(sc|script|sumberkode|sourcecode)$/i
