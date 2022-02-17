@@ -11,13 +11,11 @@ let handler = async(m, { conn }) => {
 ┃ *〲 ✅Limit UNLIMITED (Tidak Terbatas)
 ┃ 
 ┃ Ayo gabung bersama mereka yang sudah Premium dan mendapatkan banyak keuntungan dengan akses semua fitur bot.
-┃  © XsvsH
+┃  © aiman
 ┃ *─★‧ﾟ
 ╰━━━━━━━━⸙
 Pembayaran:
-Saweria: https://saweria.co/irwanxyans (+5.000)
-Dana: 08882611841
-OVO: 08882611841
+60102810046
     
 「Syarat dan Ketentuan」
 1. Bot akan keluar jika sudah waktu nya keluar
@@ -28,7 +26,7 @@ OVO: 08882611841
     `.trim()
     const button = {
         buttonText: 'List Harga',
-        description: kontol,
+        description: aiman,
         sections:  [{title: "Silahkan di pilih", rows: [
         {title: 'Premium', description: "Rp50.000\nDapatkan fitur Premium Permanent.", rowId:".konfir Saya ingin mendaftarkan premium"},
         {title: '4 Bulan', description: "Rp40.000\nSewa bot selama 4 bulan.", rowId:".konfir Saya ingin mendaftarkan 4 bulan"},
