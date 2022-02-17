@@ -33,7 +33,7 @@ global.image = await (await fetch('https://telegra.ph/file/cff570a685d0aa4c17d14
       mediaUrl: '',
       mediaType: 2,
       description: deskripsiurl,
-      title: namabot,
+      title: Aiman,
       previewType: 0,
       thumbnail: image,
       sourceUrl: _gc2
@@ -671,7 +671,7 @@ global.dfail = (type, m, conn) => {
 }
 //global.dfail = (type, m, conn) => {
   //let msg = {
-    //unreg: '\nIr`0@s.whatsapp.net` Gans'
+    //unreg: '\nIr`0@s.whatsapp.net` aiman'
   //}
   //conn.sendButton(m.chat,`UPS SEPERTINYA KAMU BELUM TERDAFTAR DI DATABASE
 
