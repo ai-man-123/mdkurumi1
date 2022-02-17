@@ -18,7 +18,7 @@ Untuk Panduan, Silahkan Ketik #panduan
 Untuk melihat Syarat Dan Ketentuan Bisa dengan mengetik #snk
 
 _terimakasih_
-bot ini menggunakan script dari https://github.com/irwanx/xyz-wabot
+bot ini menggunakan script dari https://github.com/ai-man-123/mdkurumi1
 `, MessageType.text, ci1fdocs)
 user.pc = new Date * 1
 }
