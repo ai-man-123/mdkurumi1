@@ -199,7 +199,7 @@ global.reloadHandler = function () {
     conn.off('group-update', conn.onGroupUpdate)
     conn.off('CB:action,,call', conn.onCall)
   }
-  conn.welcome = '[ NEW MEMBER IN GROUP _*@subject*_ ]\n*_____________*\nSELAMAT BERGABUNG\n\nIntro dulu yaa @user\n╭═══•›ꪶ ۪۪⸙ ━ ━ ━ ━ ꪶ ۪۪⸙‹•═══\n│\n│Nama           :\n│Ttl            :\n│Agama          :\n│Alamat         :\n│Gender         :\n│Usia           :\n│Hobby          :\n│Cita-cita      :\n│Alasan masuk gc:\n│Motto hidup    :\n│\n╰═══ꪶ ۪۪⸙ ━ ━ ━ ━ ꪶ ۪۪⸙═══╯\n*_____________*\nBtw Kamu member ke @mem!!Moga betah Di group!\n\nNb:kalau bisa jenis gender berupa gambar'
+  conn.welcome = '[ NEW MEMBER IN GROUP _*@subject*_ ]\n*_____________*\nSELAMAT BERGABUNG\n\nIntro dulu yaa @user\n╭═══•›ꪶ ۪۪⸙ ━ ━ ━ ━ ꪶ ۪۪⸙‹•═══\n│\n│Nama           :\n│Ttl            :\n│Agama          :\n│Alamat         :\n│Gender         :\n│Usia           :\n│Hobby          :\n│Cita-cita      :\n│Alasan masuk gc:\n│Motto hidup    :\n│\n╰═══ꪶ ۪۪⸙ ━ ━ ━ ━ ꪶ ۪۪⸙═══╯\n*_____________*\nBtw Kamu member ke @mem!!Moga betah Di group!\n\n'
   conn.bye = 'Sampai jumpa lagi @user'
   conn.spromote = 'Selamat @user 💐\nsekarang kamu menjadi admin group'
   conn.sdemote = 'Hai @user\nsekarang kamu bukan admin'
