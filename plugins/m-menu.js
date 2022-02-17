@@ -146,9 +146,9 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
     let tulisan = `
 ${ucapan()} ${name}. Have a great day！
 SC Bot: 
-https://github.com/irwanx/xyz-wabot
+https://github.com/ai-man-123/mdkurumi1
 `.trim()
-    let sangek = `Berikut adalah list Menu Bot. klik pada "Click Here!" untuk melihat list menu.\n\nJoin juga grup gabut Bot!\nGrup 1: ${_gc1}\nGrup 2: ${_gc2}\n\n${watermark}`
+    let sangek = `Berikut adalah list Menu Bot. klik pada "Click Here!" untuk melihat list menu.\n\n@aiman\nGrup 1: ${_gc1}\nGrup 2: ${_gc2}\n\n${watermark}`
     let d = new Date(new Date + 3600000)
     let locale = 'id'
     let week = d.toLocaleDateString(locale, { weekday: 'long' })
@@ -184,8 +184,8 @@ https://github.com/irwanx/xyz-wabot
 Tanggal Islam: ${dateIslamic}
 Time: ${waktuwib}
 
-© irwan_x_yans
-https://github.com/irwanx/xyz-wabot
+@ Aiman
+https://github.com/ai-man-123
 Aktif Selama: ${uptime}`
     let help = Object.values(global.plugins).filter(plugin => !plugin.disabled).map(plugin => {
       return {
@@ -201,7 +201,7 @@ Aktif Selama: ${uptime}`
       return conn.relayWAMessage(conn.prepareMessageFromContent(m.chat, {
         "listMessage": {
           "title": tulisan,
-          "description": sangek,
+          "description": Aiman,
           "buttonText": "Click Here!",
           "listType": "SINGLE_SELECT",
           "sections": [
