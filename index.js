@@ -4,7 +4,7 @@ let path = require('path')
 let fs = require('fs')
 let package = require('./package.json')
 const CFonts = require('cfonts')
-CFonts.say('xyz-wabot', {
+CFonts.say('Aiman', {
   colors: ['#f2aa4c'],
   font: 'block',
   align: 'center',
