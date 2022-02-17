@@ -40,7 +40,7 @@ let handler = async (m, { conn }) => {
   let neww = performance.now()
   let speed = neww - old
   let txt = `
-  Github Owner= github.com/irwanx
+  Github Owner= github.com/ai-man-123
   
 Merespon dalam ${speed} millidetik
 
